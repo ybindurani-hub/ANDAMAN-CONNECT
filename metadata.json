@@ -1,0 +1,7 @@
+{
+  "name": "Andaman Connect",
+  "description": "A feature-rich classifieds application with User Authentication, Product Management, and Firebase integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
